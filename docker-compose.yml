@@ -2,7 +2,7 @@
 version: '3'
 services:
 react-capstone:
-image: "react-capstone"
+image: "review"
 ports:
 - "81:80"
 ---
